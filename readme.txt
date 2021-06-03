@@ -1,3 +1,2 @@
-his is git test.
-Git is a version of the best controller.
-fuck 
+Git is a version control system.
+Git is free software.
